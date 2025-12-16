@@ -12,5 +12,6 @@
 
 ### ✦ GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wodnr16&show_icons=true&hide_title=true&theme=graywhite" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wodnr16&show_icons=true&theme=tokyonight" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodnr16&theme=tokyonight" width="48%" />
 </p>
