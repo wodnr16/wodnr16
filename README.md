@@ -1,10 +1,10 @@
 <div align="center">
   
-# 👋 안녕하세요, [이름]입니다!
+# 👋 안녕하세요, 박재입니다!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
-### 💫 [한 줄 소개 - 예: 끊임없이 배우고 성장하는 개발자]
+### 💫 사용자를 위한 개발자
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwodnr16&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
 
