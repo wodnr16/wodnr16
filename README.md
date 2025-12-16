@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 안녕하세요, 박재욱욱입니다!
+# 👋 안녕하세요, 박재욱입니다!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
