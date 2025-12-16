@@ -1,4 +1,4 @@
-<h1 align="center">Jaewook</h1>
+<h1 align="center">JaeUk</h1>
 <p align="center">
   UI Publisher · Frontend Developer<br/>
   Responsive · Accessible · Clean UI
@@ -7,29 +7,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github,vscode&theme=dark" />
 </p>
-
----
-
-### ✦ About
-- Mobile-first responsive layout
-- Avoid fixed width & height
-- Position used only for overlapping elements
-- Semantic HTML & Accessibility (ARIA)
-
----
-
-### ✦ Featured Work
-**Company Website UI Publishing**
-- Flex / Grid based layout
-- Clean structure for scalability
-- Mobile navigation optimization
-
----
 
 ### ✦ GitHub
 <p align="center">
