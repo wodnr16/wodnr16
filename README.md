@@ -41,7 +41,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wodnr16&show_icons=true&theme=default" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wodnr16&show_icons=true&theme=default" /> -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodnr16&layout=compact" />
 </div>
