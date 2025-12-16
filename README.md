@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Jaewook</h2>
+<h2 align="center">👋 Hi</h2>
 <p align="center">
   UI Publisher / Frontend Developer<br/>
   Responsive & Accessible Web
