@@ -12,6 +12,5 @@
 
 ### ✦ GitHub
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wodnr16&show_icons=true&theme=tokyonight" width="48%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodnr16&theme=tokyonight" width="48%" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnr16)](https://github.com/anuraghazra/github-readme-stats)
 </p>
